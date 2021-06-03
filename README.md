@@ -1,9 +1,5 @@
-## 👋 I'm Valerio
+## Hi there, my name is Valerio.
 
-I'm a data scientist at Cuebiq using machine learning to explore geospatial data.
+I’m a data scientist, minimalist and self-development nerd. I always try to keep things simple and live intentionally.
 
-In my spare time, I like to play video games and watch Netflix shows (I'm a big fan of anime).
-
-I love traveling, training and eating.
-
-Email: russovalerio.92@icloud.com | LinkedIn: [vrusso](https://www.linkedin.com/in/-vrusso/)
+Email: russovalerio.92@icloud.com | [LinkedIn](https://www.linkedin.com/in/-vrusso/)
